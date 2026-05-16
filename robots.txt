@@ -1,41 +1,26 @@
-User-agent: CCBot
-Disallow: /
+# See /ai.txt for the full usage policy for AI systems and automated agents.
+#
+# Bots not listed below are allowed by default. The Disallow entries here
+# target crawlers whose primary use case is reselling extracted web data or
+# building marketing/lead-generation products, which is incompatible with the
+# policy in /ai.txt.
 
-User-agent: ChatGPT-User
-Disallow: /
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: Applebot-Extended 
-Disallow: /
-User-agent: anthropic-ai
-Disallow: /
-
-User-agent: ClaudeBot 
-Disallow: /
-User-agent: Omgilibot
-Disallow: /
-
-User-agent: Omgili
-Disallow: /
-
-User-agent: FacebookBot
+User-agent: Bytespider
 Disallow: /
 
 User-agent: Diffbot
 Disallow: /
 
-User-agent: Bytespider
+User-agent: Omgili
 Disallow: /
 
-User-agent: ImagesiftBot 
+User-agent: Omgilibot
 Disallow: /
 
-User-agent: PerplexityBot
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: FacebookBot
 Disallow: /
 
 User-agent: cohere-ai
